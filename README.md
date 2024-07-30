@@ -1,4 +1,4 @@
-# CevicheComp '23
+# CevicheComp '24
 
 WHAT: Ceviche and Salsa "Competition" (friendly)
 WHEN: Sunday Aug 11 (tentative)

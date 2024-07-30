@@ -1,8 +1,11 @@
 # CevicheComp '24
 
 WHAT: Ceviche and Salsa "Competition" (friendly)
+
 WHEN: Sunday Aug 11 (tentative)
+
 WHERE: Stulsaft Park Off-Leash Dog Area
+
 WHO: You, if you know Robert Daland or Fonsi Bonilla and you're reading this
 
 # Rules (tentative)

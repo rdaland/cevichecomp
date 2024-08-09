@@ -1,37 +1,35 @@
 # CevicheComp '24
 
-WHAT: Ceviche and Salsa "Competition" (friendly)
+* WHAT: A friendly salsa and ceviche competition
+* WHEN: Sunday Aug 11, 10 am — 2 pm
+* WHERE: Stulsaft Park Off-Leash Dog Area (near Redwood City)
+* WHO: You, if you know Robert Daland or Fonsi Bonilla and you're reading this
+* HOW MUCH: $5 (contestants and non-compating guests)
 
-WHEN: Sunday Aug 11 (tentative)
+(Contribution of $5 will partially cover the Redwood City day use fee, cost of chips, and comp materials.)
 
-WHERE: Stulsaft Park Off-Leash Dog Area
+# Rules
 
-WHO: You, if you know Robert Daland or Fonsi Bonilla and you're reading this
+* CATEGORIES: Salsa, Ceviche, and Other.
+    * Only the Salsa and Ceviche categories will be judged.
+    * See below for category definitions.
+* TEAMS: Individuals, couples, families, or small groups of friends may form a team.
+* ENTRIES: Teams may submit up to 3 items for judging.
+    * example: 2 salsa + 1 ceviche + 1 other, total judged items = 3, 3 <= 3, okay!
+    * example: 2 salsas + 2 ceviches, total judged items = 4, 4 > 3, not okay
+* FOOD SAFETY: Label ingredients, and use sushi-grade raw ingredients.
+    * Indicate all ingredients, so participants can check against food allergies.
+    * Indicate when the protein was purchased/prepared (ceviches and other).
+    * Indicate approximate spice level.
+* SERVING: Tortilla chips will be supplied, but you can provide your own if you like.
+* JUDGING: Individuals will vote for their favorite entry in each judged category.
+    * Anyone who is present can vote, whether they entered or not.
+    * Individuals may not vote for their own entries.
+    * Individuals may submit 2 votes for favorite Salsa, and 2 for favorite Ceviche.
+    * For food safety reasons, no voting/winning will take place for Other category.
 
-# Rules (tentative)
+# Categories
 
-* Item Categories
-    * Ceviche — raw seafood, chemically cooked in lime juice or other acid, possibly along with herbs/spices and other vegetarian ingredients
-    * Salsa — vegetarian ingredients, bathed in lime juice or other acid
-    * Other — uncooked meat, possibly bathed in lime juice or other acid, possibly containing other ingredients (e.g. tartare, kelaguen)
-* Participants
-    * You can enter as an individual, couple, family, or other small team
-    * Each participating individual/group can submit 1, 2, or 3 items total, but 3 is the maximum
-    * The items may be split among categories in any way (2 ceviches + 1 salsa; 3 tartares)
-* Labels
-    * Prepare a (physical) label for each entry
-    * List all ingredients, so that guests can check against any food allergies (corn, sichuan peppercorns, etc..)
-    * For ceviches, indicate when the seafood went into the acid
-    * For other, indicate when it was purchased and when it was prepared
-* Food safety
-    * Please consider food safety when purchasing and preparing proteins
-    * Consider buying sushi-grade seafood and/or marinating for 2 days before serving
-    * Food safety is of paramount important for kelaguens, tartares, and other uncooked meat
-* Serving chips
-    * Participants are welcome to provide an optional accompanying item to serve with, e.g. yucca chips
-    * However, all salsas and all ceviches will be judged by tasting with the same serving item (thick tortilla chips)
-* Judging (TBD)
-    * The Other category will not be judged, and is considered "taste at your own risk" 
-    * Option 1: Each entry is its own category (everyone wins in their own category)
-    * Option 2: A tasting panel of noncompeting judges is assembled and judges all of the entries
-    * Option 3: Participants vote for the best in each category that isn't their own item
+* SALSA: Containing only acid (e.g. lime juice) and vegetarian items (e.g. tomatoes, onions, jalapenos, olive oil, cilantro)
+* CEVICHE: Containing raw seafood which has been chemically denatured by exposure to acid (may contain salsa ingredients as well)
+* OTHER: Containing raw proteins which may or may not have been chemically denatured (pokes, tartares, kelaguins, etc..)
